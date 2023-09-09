@@ -1,0 +1,2 @@
+# CODSOFT2
+The first task done is SALES PREDICTION USING PYTHON
